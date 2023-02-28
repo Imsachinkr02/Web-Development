@@ -1,0 +1,30 @@
+.hello{
+    /* background properties */
+    /* color: red;
+    /* background: aqua; */
+    /* background: rgba(0,100,100,0.5); */
+    /* background-color: aqua;
+    height: 100%;
+    background-image: url(Snapchat-140438851.jpg);
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed; */
+     
+    /* border properties */
+    border-style: dashed;
+    border-width: 2px;
+    border-color: brown;
+    border-radius: 10px;
+
+    cursor:pointer;
+
+    /* float: right; */
+
+    line-height: 60px;
+    font-size: 20px;
+    color: burlywood;
+
+    margin: 20px;
+    padding: 20px;
+}

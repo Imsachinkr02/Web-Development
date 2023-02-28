@@ -1,0 +1,26 @@
+
+/* p2{
+    font-size: 40px;
+    font-weight: bold;
+    color:rgb(226, 43, 104);
+    background-color: aqua;
+} */
+
+/* div
+ {
+font-size: 20px;
+font-weight: lighter;
+color: brown;
+background-color: aquamarine;
+} */ 
+
+.hello
+{
+    font-size: 20px;
+    font-weight: lighter;
+    color: brown;
+    background-color: aquamarine;
+}
+button{
+    color: brown;
+}

@@ -1,0 +1,21 @@
+.hello .inner-hello{
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+    color: brown;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(203, 41, 133);
+    border: solid;
+    border-color: rgb(82, 204, 213);
+    background-color:beige;
+    border-radius: 10%;
+}
+.hii{
+    color: rgb(116, 171, 15);
+    font-weight: bold;
+    text-shadow: -2px 2px 3px;
+}
+p:hover
+{
+    color: rgb(85, 12, 149);
+}
